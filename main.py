@@ -41,8 +41,8 @@ class Vehicle:
         """
         print(
             f"Название: {self._name},\
-                  Вместимость бака: {self._fuel_tank_capacity} л,\
-                      Текущий уровень топлива: {self._current_fuel_level} л."
+ Вместимость бака: {self._fuel_tank_capacity} л,\
+ Текущий уровень топлива: {self._current_fuel_level} л."
             )
 
 
